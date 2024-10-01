@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775627982569",
+    "project_id": "breeze-scriby",
+    "storage_bucket": "breeze-scriby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775627982569:android:1fdf1392a7031d59f35278",
+        "android_client_info": {
+          "package_name": "com.breezeashoknotebooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDljfG2fsyHJkk22cKIUeozBZ784-iu7TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
